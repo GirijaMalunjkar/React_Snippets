@@ -1,0 +1,27 @@
+.App {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    color: white;
+    padding: 2rem;
+  }
+  
+  .App-header h1 {
+    margin: 0;
+  }
+  
+  .Services,
+  .About,
+  .Contact {
+    margin: 2rem 0;
+  }
+  
+  .App-footer {
+    background-color: #282c34;
+    color: white;
+    padding: 1rem;
+  }
+  
